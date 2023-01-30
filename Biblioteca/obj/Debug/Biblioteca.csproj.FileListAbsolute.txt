@@ -1,0 +1,14 @@
+C:\Users\Carlo\OneDrive\Documentos\Introduccion a la programacion\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Carlo\OneDrive\Documentos\Introduccion a la programacion\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\Introduccion a la programacion\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Carlo\OneDrive\Documentos\Introduccion a la programacion\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Carlo\OneDrive\Documentos\Introduccion a la programacion\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Carlo\OneDrive\Documentos\Introduccion a la programacion\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Carlo\OneDrive\Documentos\Introduccion a la programacion\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Carlo\OneDrive\Documentos\Ingeniera de Software\Primer semestre\Introduccion a la programacion\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Carlo\OneDrive\Documentos\Ingeniera de Software\Primer semestre\Introduccion a la programacion\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Carlo\OneDrive\Documentos\Ingeniera de Software\Primer semestre\Introduccion a la programacion\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Carlo\OneDrive\Documentos\Ingeniera de Software\Primer semestre\Introduccion a la programacion\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Carlo\OneDrive\Documentos\Ingeniera de Software\Primer semestre\Introduccion a la programacion\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Documentos\Ingeniera de Software\Primer semestre\Introduccion a la programacion\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Carlo\OneDrive\Documentos\Ingeniera de Software\Primer semestre\Introduccion a la programacion\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
